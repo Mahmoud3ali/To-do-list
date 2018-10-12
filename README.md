@@ -15,4 +15,4 @@ Used VScode with the following features:
   - JavaScript (ES6).
   - Live server "I recommend using it, it save so much time".
 
-Also if you're new to VScode use this video to install it and customize it: https://www.youtube.com/watch?v=THDTDTkyB1I&t=1s
+Also if you're new to VScode i used this video to install it and customize it: https://www.youtube.com/watch?v=THDTDTkyB1I&t=1s
